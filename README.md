@@ -60,3 +60,13 @@ Foco no uso inteligente de laços para criar sequências numéricas famosas, com
 * Números Primos
 * Números Perfeitos
 * Sequência de Ricci
+
+🔠 Lista 7 — Manipulação de Strings e Caracteres
+
+Lista dedicada exclusivamente à manipulação de strings, caracteres e processos de codificação e análise textual.
+Foram exploradas operações como leitura, comparação, contagem de caracteres, criptografia simples e manipulação de palavras.
+
+📊 Lista 8 — Estruturas de Repetição com Vetores
+
+Aplicação intensiva de estruturas de repetição em conjunto com vetores (arrays).
+Os exercícios focam no processamento de dados armazenados em vetores, como leitura, ordenação, contagem, comparação e exibição de resultados.
